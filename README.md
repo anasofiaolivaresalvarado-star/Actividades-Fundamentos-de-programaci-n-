@@ -1,2 +1,2 @@
-# Actividades-Fundamentos-de-programaci-n-
+# Fundamentos-de-programacion-
 Actividad 1
